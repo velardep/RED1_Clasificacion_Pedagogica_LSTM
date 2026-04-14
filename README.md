@@ -1,0 +1,2 @@
+# RED1_Clasificacion_Pedagogica_LSTM
+Red neuronal para clasificacion pedagogica
